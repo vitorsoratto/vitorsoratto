@@ -2,9 +2,9 @@
 
 * I'm from Brazil 🇧🇷, and my objective here is *undefined*
 * You can find some intersting (or not) codes
-
+<!--
 ![Vitor top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoratto&show_icons=true&theme=tokyonight)
-
+-->
 <!--
 
 Here are some ideas to get you started:
