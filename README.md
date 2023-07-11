@@ -16,4 +16,8 @@
   <a href="https://www.djangoproject.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django"  width="25" height="25"/></a>
   <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="flutter"  width="25" height="25"/></a>
   <a href="https://laravel.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel"  width="25" height="25"/></a>
+  <a href="https://react.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react"  width="25" height="25"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql"  width="25" height="25"/></a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git"  width="25" height="25"/></a>
+  <a href="https://react.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react"  width="25" height="25"/></a>
 </p>
