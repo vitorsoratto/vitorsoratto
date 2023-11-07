@@ -20,4 +20,5 @@
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql"  width="25" height="25"/></a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git"  width="25" height="25"/></a>
   <a href="https://react.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react"  width="25" height="25"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi"  width="25" height="25"/></a>
 </p>
