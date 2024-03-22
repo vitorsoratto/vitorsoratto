@@ -2,7 +2,7 @@
 <!--
 ![Vitor top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsoratto&show_icons=true&theme=tokyonight)
 -->
-- 🔭 I’m currently working on [Zapay Pagamentos](https://usezapay.com.br) as a Fullstack Mobile Developer
+- 🔭 I’m currently not working on a company, and i'm open to opportunities!
 - 📫 How to reach me: [vitorssoratto@gmail.com](mailto:vitorssoratto@gmail.com)
 
 <h3 align="left">Programming languages and Tools</h3>
